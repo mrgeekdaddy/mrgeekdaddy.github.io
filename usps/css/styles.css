@@ -92,7 +92,7 @@ section {
 
   }
 
-  section article:brfore{
+  section article:before{
     content:"";
     background-color:red;
     display:block;
